@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on software vulnerability prediction.
-- 🌱 I’m currently learning deep learning, pytorch.
-- 👯 I’m looking to collaborate on security software intelligence.
-- 🤔 I’m looking for help with misc.
+- 🔭 I’m currently working on software engineering and security
+- 🌱 I’m currently learning rust
 - 💬 Ask me about anything.
-- 📫 How to reach me: Twitter. 
+- 📫 How to reach me: Twitter @davidhin_
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can almost do an axel on figure skates.
+- ⚡ Fun fact: I figure skate on Instagram @david.hin
